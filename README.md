@@ -1,6 +1,6 @@
 # TicTacToe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+X and 0 game with Angular and Firebase deployment, you can see preview [here](https://tictactoe-c3992.web.app/).
 
 ## Development server
 
